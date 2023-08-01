@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* index.css */
+body {
+  margin: 0;
+  background-color: purple;
+}
+
+/* If you prefer to target the root element by its ID */
+#root {
+  background-color: purple;
+}
